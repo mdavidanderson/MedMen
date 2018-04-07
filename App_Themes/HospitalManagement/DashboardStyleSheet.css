@@ -1,0 +1,15 @@
+﻿body {
+}
+
+li{
+    list-style: none;
+}
+
+li a{
+         color: black;
+         text-decoration: none;
+     }
+
+    li a:hover{
+        color: dimgrey;
+    }
